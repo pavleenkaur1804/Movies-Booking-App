@@ -135,8 +135,7 @@ class Home extends Component {
     
     return (
       <>
-      
-     { /*  Header Component */}
+      { /*  Header Component */}
       <Header />
 
       { /* Heading */ }
@@ -179,7 +178,7 @@ class Home extends Component {
             </div>
           </div>
 
-         { /* Movie Filter Card */}
+         { /* Movie Filter Card  Working*/}
           <div className="right">
           
             <Card>
